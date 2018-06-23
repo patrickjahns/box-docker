@@ -1,4 +1,4 @@
-BOX_URL ?= https://github.com/humbug/box/releases/download/3.0.0-beta.2/box.phar
+BOX_URL ?= https://github.com/humbug/box/releases/download/3.0.0-beta.4/box.phar
 
 DOCKER_CMD ?= docker
 IMAGE_NAME ?= patrickjahns/box:latest
